@@ -24,4 +24,3 @@ pip install pandas matplotlib seaborn
 
 jupyter notebook Spotify_DataAnalysis_EDA.ipynb
 
-Feel free to customize any part of it to better match your project!
